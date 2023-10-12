@@ -10,6 +10,6 @@ Our app was created using an iterative approach. This is much like you would see
 
 The code was ensured to be functional with basic usage testing. I went through and tested different scenarios. If we had more time, I would have implemented unit and systems testing. This current project, however, is simple enough that basic manual testing seemed sufficient.
 
-While the reading material was quite good, and I had some difficulties, there were a few items that I needed to continue to research. Some of the material glossed over some areas fairly quickly. For example, using SQLite and creating a recycler view. These two items I had to do a decent amount of research in order to get working, however I did. One area I had difficulty with was setting up the SMS notifications and was an area I did not manage to get working.
+While the reading material was quite good, and I had some difficulties, there were a few items that I needed to continue to research. Some of the material glossed over some areas fairly quickly. For example, using SQLite and creating a recycler view. These two items I had to do a decent amount of research in order to get working, however I did.
 
 The part of the program I am most proud of was creating the logic to interact with the database. This is an area I felt very little confidence in but after a little bit of reading, had no issue quickly setting up. I also isolated the code to promote high cohesion and low coupling. The database files could easily be introduced into another application.
